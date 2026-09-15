@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:47:42.270932+00:00",
+  "generated_at": "2026-09-15T11:04:24.563543+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -6019,6 +6019,7 @@
       "apr_ceiling": "https://www.nusenda.org/docs/default-source/addendums/visa-9-75-11-10-25--16-75.pdf?sfvrsn=66e73a2a_1",
       "penalty_apr": "https://www.nusenda.org/docs/default-source/addendums/visa-9-75-11-10-25--16-75.pdf?sfvrsn=66e73a2a_1",
       "min_finance_charge": "https://www.nusenda.org/docs/default-source/addendums/visa-9-75-11-10-25--16-75.pdf?sfvrsn=66e73a2a_1",
+      "effective_date": "https://www.nusenda.org/docs/default-source/addendums/visa-9-75-12-22-25--16-50.pdf",
       "reward_structure": "https://www.nusenda.org/loans-credit-cards/credit-cards/platinum-terms-and-conditions",
       "card_promotions": "https://www.nusenda.org/loans-credit-cards/credit-cards/platinum-terms-and-conditions",
       "over_limit": "https://www.nusenda.org/loans-credit-cards/credit-cards/platinum-terms-and-conditions",
