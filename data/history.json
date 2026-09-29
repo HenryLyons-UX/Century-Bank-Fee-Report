@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:56:03.686608+00:00",
+  "generated_at": "2026-09-29T12:08:24.949944+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -7,14 +7,14 @@
         {
           "annual_fee": "None",
           "purchase_apr": "12.50% - 16.50%",
-          "balance_transfer_apr": "12.50% - 16.50%",
+          "balance_transfer_apr": "12.75% - 16.75%",
           "balance_transfer_fee": "None",
-          "cash_advance_apr": "12.50% - 16.50%",
+          "cash_advance_apr": "12.75% - 16.75%",
           "cash_advance_fee": "1% of the amount of each cash advance (minimum: $2.00 ; maximum: $20.00 )",
           "foreign_transaction_fee": "1% of transaction amount",
           "late_payment_fee": "If your payment is late, up to $27.00 for the first offense and up to $30.00 each if 2 or more offenses occur within 6 months.",
           "returned_item_fee": "Up to $26.00 if your payment is returned for any reason.",
-          "intro_offers": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR.",
+          "intro_offers": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.75% - 16.75% APR.",
           "rewards_structure": "None",
           "card_name": "Visa Platinum",
           "category": "credit_card_standard",
@@ -35,14 +35,14 @@
         {
           "annual_fee": "None",
           "purchase_apr": "12.50% - 16.50%",
-          "balance_transfer_apr": "12.50% - 16.50%",
+          "balance_transfer_apr": "12.75% - 16.75%",
           "balance_transfer_fee": "None",
-          "cash_advance_apr": "12.50% - 16.50%",
+          "cash_advance_apr": "12.75% - 16.75%",
           "cash_advance_fee": "1% of the amount of each cash advance (minimum: $2.00 ; maximum: $20.00 )",
           "foreign_transaction_fee": "1% of transaction amount",
           "late_payment_fee": "If your payment is late, up to $27.00 for the first offense and up to $30.00 each if 2 or more offenses occur within 6 months.",
           "returned_item_fee": "Up to $26.00 if your payment is returned for any reason.",
-          "intro_offers": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR.",
+          "intro_offers": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.75% - 16.75% APR.",
           "rewards_structure": "1 bonus point for every dollar spent on purchases, and 3 bonus points per dollar in quarterly rotating categories.",
           "card_name": "Visa Platinum Rewards",
           "category": "credit_card_rewards",
@@ -63,14 +63,14 @@
         {
           "annual_fee": "None",
           "purchase_apr": "12.50% - 16.50%",
-          "balance_transfer_apr": "12.50% - 16.50%",
+          "balance_transfer_apr": "12.75% - 16.75%",
           "balance_transfer_fee": "None",
-          "cash_advance_apr": "12.50% - 16.50%",
+          "cash_advance_apr": "12.75% - 16.75%",
           "cash_advance_fee": "1% of the amount of each cash advance (minimum: $2.00 ; maximum: $20.00 )",
           "foreign_transaction_fee": "1% of transaction amount",
           "late_payment_fee": "If your payment is late, up to $27.00 for the first offense and up to $30.00 each if 2 or more offenses occur within 6 months.",
           "returned_item_fee": "Up to $26.00 if your payment is returned for any reason.",
-          "intro_offers": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR.",
+          "intro_offers": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.75% - 16.75% APR.",
           "rewards_structure": "1% cash back on all purchases and 5% cash back on purchases in quarterly rotating categories.",
           "card_name": "Visa Platinum Cash Rewards",
           "category": "credit_card_rewards",
@@ -91,9 +91,9 @@
         {
           "annual_fee": "None",
           "purchase_apr": "16.75%",
-          "balance_transfer_apr": "12.50% - 16.50%",
+          "balance_transfer_apr": "12.75% - 16.75%",
           "balance_transfer_fee": "None",
-          "cash_advance_apr": "12.50% - 16.50%",
+          "cash_advance_apr": "12.75% - 16.75%",
           "cash_advance_fee": "1% of the amount of each cash advance (minimum: $2.00 ; maximum: $20.00 )",
           "foreign_transaction_fee": "1% of transaction amount",
           "late_payment_fee": "If your payment is late, up to $27.00 for the first offense and up to $30.00 each if 2 or more offenses occur within 6 months.",
@@ -118,7 +118,7 @@
         }
       ],
       "warnings": [
-        "[Nusenda Credit Union] Field 'balance_transfer_apr' had 2 conflicting values across the page's tables: ['5% Promotional APR on all cash advances and balance transfers for the first 18 months after card opening. After that, the APR on your Platinum Card will be 12.50% - 16.50% , depending on your credit history. This APR will vary with the market based on the Prime Rate.', '0% Promotional APR on Balance transfers 1 for 12 months from the date of account opening. After that, your standard APR 12.50% to 16.50% depending on your credit history. This APR will vary with the market based Prime Rate.'] -- using the last one seen ('0% Promotional APR on Balance transfers 1 for 12 months from the date of account opening. After that, your standard APR 12.50% to 16.50% depending on your credit history. This APR will vary with the market based Prime Rate.'); verify manually."
+        "[Nusenda Credit Union] Field 'balance_transfer_apr' had 2 conflicting values across the page's tables: ['5% Promotional APR on all cash advances and balance transfers for the first 18 months after card opening. After that, the APR on your Platinum Card will be 12.75% - 16.75% , depending on your credit history. This APR will vary with the market based on the Prime Rate.', '0% Promotional APR on Balance transfers 1 for 12 months from the date of account opening. After that, your standard APR 12.75% to 16.75% depending on your credit history. This APR will vary with the market based Prime Rate.'] -- using the last one seen ('0% Promotional APR on Balance transfers 1 for 12 months from the date of account opening. After that, your standard APR 12.75% to 16.75% depending on your credit history. This APR will vary with the market based Prime Rate.'); verify manually."
       ]
     },
     "nusenda_retail_fees": {
@@ -606,7 +606,7 @@
         }
       ],
       "warnings": [
-        "[State Employees Credit Union of New Mexico] Credit card disclosure states it is \"current as of September 30, 2021\" -- that's 4 year(s) old. Transaction fee terms (annual fee, cash advance, balance transfer, foreign transaction, late payment) have not been independently reconfirmed since then; verify they're still accurate."
+        "[State Employees Credit Union of New Mexico] Credit card disclosure states it is \"current as of September 30, 2021\" -- that's 5 year(s) old. Transaction fee terms (annual fee, cash advance, balance transfer, foreign transaction, late payment) have not been independently reconfirmed since then; verify they're still accurate."
       ]
     },
     "secu_nm_kasasa_compare": {
@@ -1353,7 +1353,7 @@
       "fee_type": "balance_transfer_apr",
       "category": "credit_card_standard",
       "category_label": "Standard Credit Card",
-      "value": "12.50% - 16.50%",
+      "value": "12.75% - 16.75%",
       "scope": "Visa Platinum",
       "scope_products": [
         "Visa Platinum"
@@ -1365,8 +1365,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "12.50% - 16.50%"
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1395,7 +1395,7 @@
       "fee_type": "cash_advance_apr",
       "category": "credit_card_standard",
       "category_label": "Standard Credit Card",
-      "value": "12.50% - 16.50%",
+      "value": "12.75% - 16.75%",
       "scope": "Visa Platinum",
       "scope_products": [
         "Visa Platinum"
@@ -1407,8 +1407,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "12.50% - 16.50%"
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1500,7 +1500,7 @@
       "fee_type": "intro_offers",
       "category": "credit_card_standard",
       "category_label": "Standard Credit Card",
-      "value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR.",
+      "value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.75% - 16.75% APR.",
       "scope": "Visa Platinum",
       "scope_products": [
         "Visa Platinum"
@@ -1512,8 +1512,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR."
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1586,7 +1586,7 @@
       "fee_type": "balance_transfer_apr",
       "category": "credit_card_rewards",
       "category_label": "Rewards Credit Card",
-      "value": "12.50% - 16.50%",
+      "value": "12.75% - 16.75%",
       "scope": "verified across all products",
       "scope_products": [
         "Visa Platinum Rewards",
@@ -1599,8 +1599,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "12.50% - 16.50%"
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1630,7 +1630,7 @@
       "fee_type": "cash_advance_apr",
       "category": "credit_card_rewards",
       "category_label": "Rewards Credit Card",
-      "value": "12.50% - 16.50%",
+      "value": "12.75% - 16.75%",
       "scope": "verified across all products",
       "scope_products": [
         "Visa Platinum Rewards",
@@ -1643,8 +1643,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "12.50% - 16.50%"
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1740,7 +1740,7 @@
       "fee_type": "intro_offers",
       "category": "credit_card_rewards",
       "category_label": "Rewards Credit Card",
-      "value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR.",
+      "value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.75% - 16.75% APR.",
       "scope": "verified across all products",
       "scope_products": [
         "Visa Platinum Rewards",
@@ -1753,8 +1753,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR."
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1846,7 +1846,7 @@
       "fee_type": "balance_transfer_apr",
       "category": "credit_card_secured",
       "category_label": "Secured Credit Card",
-      "value": "12.50% - 16.50%",
+      "value": "12.75% - 16.75%",
       "scope": "Visa Secured Credit Card",
       "scope_products": [
         "Visa Secured Credit Card"
@@ -1858,8 +1858,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "12.50% - 16.50%"
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1888,7 +1888,7 @@
       "fee_type": "cash_advance_apr",
       "category": "credit_card_secured",
       "category_label": "Secured Credit Card",
-      "value": "12.50% - 16.50%",
+      "value": "12.75% - 16.75%",
       "scope": "Visa Secured Credit Card",
       "scope_products": [
         "Visa Secured Credit Card"
@@ -1900,8 +1900,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "12.50% - 16.50%"
     },
     {
       "institution": "Nusenda Credit Union",
