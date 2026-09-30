@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:08:24.949944+00:00",
+  "generated_at": "2026-09-30T11:56:52.745648+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -1365,8 +1365,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "12.50% - 16.50%"
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1407,8 +1407,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "12.50% - 16.50%"
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1512,8 +1512,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR."
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1599,8 +1599,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "12.50% - 16.50%"
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1643,8 +1643,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "12.50% - 16.50%"
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1753,8 +1753,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "Promotional APR on all purchases for the first 18 months after card opening. Once the 5% APR Intro Rate expires, your APR will return to your normal variable rate of 12.50% - 16.50% APR."
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1858,8 +1858,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "12.50% - 16.50%"
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
@@ -1900,8 +1900,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": true,
-      "previous_value": "12.50% - 16.50%"
+      "changed_since_last_snapshot": false,
+      "previous_value": null
     },
     {
       "institution": "Nusenda Credit Union",
