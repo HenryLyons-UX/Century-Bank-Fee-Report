@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:45:10.274511+00:00",
+  "generated_at": "2026-10-07T12:39:05.747260+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -1205,9 +1205,85 @@
     },
     "enterprise_bank_credit_cards": {
       "name": "Enterprise Bank & Trust (New Mexico)",
-      "cards": [],
+      "cards": [
+        {
+          "card_name": "Visa Non-Rewards",
+          "category": "credit_card_standard",
+          "_field_confidence": {
+            "annual_fee": "high",
+            "rewards_structure": "high",
+            "purchase_apr": "high",
+            "balance_transfer_apr": "high",
+            "intro_offers": "high",
+            "cash_advance_apr": "high"
+          },
+          "annual_fee": "$0",
+          "rewards_structure": "No",
+          "purchase_apr": "10.99% - 21.99%",
+          "balance_transfer_apr": "10.99% - 21.99%",
+          "intro_offers": "0.00% introductory APR for the first 12 billing cycles on purchases and balance transfers.",
+          "cash_advance_apr": "24.99%",
+          "cash_advance_fee": "Not publicly disclosed",
+          "balance_transfer_fee": "Not publicly disclosed",
+          "late_payment_fee": "Not publicly disclosed",
+          "returned_item_fee": "Not publicly disclosed",
+          "_matrix_extra": {
+            "effective_date": "06/27/2022"
+          }
+        },
+        {
+          "card_name": "Visa Rewards",
+          "category": "credit_card_rewards",
+          "_field_confidence": {
+            "annual_fee": "high",
+            "rewards_structure": "high",
+            "purchase_apr": "high",
+            "balance_transfer_apr": "high",
+            "intro_offers": "high",
+            "cash_advance_apr": "high"
+          },
+          "annual_fee": "$0",
+          "rewards_structure": "Earn 1.25 points for every net $1 in spend",
+          "purchase_apr": "15.49% - 23.99%",
+          "balance_transfer_apr": "15.49% - 23.99%",
+          "intro_offers": "0.00% introductory APR for the first 6 billing cycles on purchases and balance transfers.",
+          "cash_advance_apr": "24.99%",
+          "cash_advance_fee": "Not publicly disclosed",
+          "balance_transfer_fee": "Not publicly disclosed",
+          "late_payment_fee": "Not publicly disclosed",
+          "returned_item_fee": "Not publicly disclosed",
+          "_matrix_extra": {
+            "effective_date": "06/27/2022"
+          }
+        },
+        {
+          "card_name": "Visa Rewards Plus",
+          "category": "credit_card_rewards",
+          "_field_confidence": {
+            "annual_fee": "high",
+            "rewards_structure": "high",
+            "purchase_apr": "high",
+            "balance_transfer_apr": "high",
+            "intro_offers": "high",
+            "cash_advance_apr": "high"
+          },
+          "annual_fee": "$50",
+          "rewards_structure": "Earn 1.50 points for every net $1 in spend",
+          "purchase_apr": "15.49% - 23.99%",
+          "balance_transfer_apr": "15.49% - 23.99%",
+          "intro_offers": "0.00% introductory APR for the first 6 billing cycles on purchases and balance transfers.",
+          "cash_advance_apr": "24.99%",
+          "cash_advance_fee": "Not publicly disclosed",
+          "balance_transfer_fee": "Not publicly disclosed",
+          "late_payment_fee": "Not publicly disclosed",
+          "returned_item_fee": "Not publicly disclosed",
+          "_matrix_extra": {
+            "effective_date": "06/27/2022"
+          }
+        }
+      ],
       "warnings": [
-        "Failed to reach Enterprise Bank & Trust (New Mexico) URL (https://www.enterprisebank.com/personal/credit-cards): 404 Client Error: Not Found for url: https://www.enterprisebank.com/personal/credit-cards"
+        "[Enterprise Bank & Trust (New Mexico)] Credit card page states rate information is accurate as of 06/27/2022 -- that's 4 year(s) old. Card terms have not been independently reconfirmed since then; verify they're still accurate."
       ]
     },
     "enterprise_bank_foreign_transaction": {
@@ -5441,6 +5517,216 @@
     },
     {
       "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "annual_fee",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "$0",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "no_fee",
+      "mechanism_label": "No fee",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "rewards_structure",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "No",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "purchase_apr",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "10.99% - 21.99%",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "balance_transfer_apr",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "10.99% - 21.99%",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "intro_offers",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "0.00% introductory APR for the first 12 billing cycles on purchases and balance transfers.",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "cash_advance_apr",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "24.99%",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "cash_advance_fee",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "balance_transfer_fee",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "late_payment_fee",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Non-Rewards",
+      "fee_type": "returned_item_fee",
+      "category": "credit_card_standard",
+      "category_label": "Standard Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "Visa Non-Rewards",
+      "scope_products": [
+        "Visa Non-Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
       "product_name": "Foreign Transaction Fee (travel tips page)",
       "fee_type": "foreign_transaction_fee",
       "category": "credit_card_standard",
@@ -5453,6 +5739,266 @@
       "confidence": "high",
       "mechanism": "percentage",
       "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Rewards",
+      "fee_type": "annual_fee",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "$0",
+      "scope": "Visa Rewards",
+      "scope_products": [
+        "Visa Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "no_fee",
+      "mechanism_label": "No fee",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Rewards Plus",
+      "fee_type": "annual_fee",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "$50",
+      "scope": "Visa Rewards Plus",
+      "scope_products": [
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "flat",
+      "mechanism_label": "Flat fee",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Rewards",
+      "fee_type": "rewards_structure",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "Earn 1.25 points for every net $1 in spend",
+      "scope": "Visa Rewards",
+      "scope_products": [
+        "Visa Rewards"
+      ],
+      "confidence": "high",
+      "mechanism": "flat",
+      "mechanism_label": "Flat fee",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": "Visa Rewards Plus",
+      "fee_type": "rewards_structure",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "Earn 1.50 points for every net $1 in spend",
+      "scope": "Visa Rewards Plus",
+      "scope_products": [
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "flat",
+      "mechanism_label": "Flat fee",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "purchase_apr",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "15.49% - 23.99%",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "balance_transfer_apr",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "15.49% - 23.99%",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "intro_offers",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "0.00% introductory APR for the first 6 billing cycles on purchases and balance transfers.",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "cash_advance_apr",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "24.99%",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "percentage",
+      "mechanism_label": "Percentage-based",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "cash_advance_fee",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "balance_transfer_fee",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "late_payment_fee",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
+      "verification": "empirical",
+      "source_quote": null,
+      "source_locator": null,
+      "issuers": [],
+      "changed_since_last_snapshot": false,
+      "previous_value": null
+    },
+    {
+      "institution": "Enterprise Bank & Trust (New Mexico)",
+      "product_name": null,
+      "fee_type": "returned_item_fee",
+      "category": "credit_card_rewards",
+      "category_label": "Rewards Credit Card",
+      "value": "Not publicly disclosed",
+      "scope": "verified across all products",
+      "scope_products": [
+        "Visa Rewards",
+        "Visa Rewards Plus"
+      ],
+      "confidence": "high",
+      "mechanism": "unknown",
+      "mechanism_label": "Unclear",
       "verification": "empirical",
       "source_quote": null,
       "source_locator": null,
@@ -5531,6 +6077,14 @@
       "reward_structure": "https://www.sunflowerbank.com/personal/loans-credit/credit-cards",
       "card_promotions": "https://www.sunflowerbank.com/personal/loans-credit/credit-cards"
     },
-    "Enterprise Bank & Trust (New Mexico)": {}
+    "Enterprise Bank & Trust (New Mexico)": {
+      "annual_fee": "https://www.enterprisebank.com/personal/credit-cards",
+      "apr_purchases": "https://www.enterprisebank.com/personal/credit-cards",
+      "reward_structure": "https://www.enterprisebank.com/personal/credit-cards",
+      "card_promotions": "https://www.enterprisebank.com/personal/credit-cards",
+      "stop_payment": "https://www.enterprisebank.com/scheduleoffees",
+      "foreign_transaction": "https://www.enterprisebank.com/personal/travel-tips",
+      "effective_date": "https://www.enterprisebank.com/personal/credit-cards"
+    }
   }
 }
