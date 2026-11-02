@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:08:22.000137+00:00",
+  "generated_at": "2026-11-02T14:46:02.728873+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -741,9 +741,9 @@
       "name": "First National 1870 (Sunflower Bank, N.A.)",
       "cards": [
         {
-          "purchase_apr": "11.80% - 13.45%",
-          "balance_transfer_apr": "11.80% - 13.45%",
-          "cash_advance_apr": "23.49%",
+          "purchase_apr": "12.05% - 13.70%",
+          "balance_transfer_apr": "12.05% - 13.70%",
+          "cash_advance_apr": "23.74%",
           "annual_fee": "NONE",
           "balance_transfer_fee": "Up to $5.00 or 5.0% of the amount transferred, whichever is greater",
           "cash_advance_fee": "$10.00 or 3.0% of the amount advanced, whichever is greater",
@@ -784,9 +784,9 @@
           }
         },
         {
-          "purchase_apr": "11.80% - 13.45%",
-          "balance_transfer_apr": "11.80% - 13.45%",
-          "cash_advance_apr": "23.49%",
+          "purchase_apr": "12.05% - 13.70%",
+          "balance_transfer_apr": "12.05% - 13.70%",
+          "cash_advance_apr": "23.74%",
           "annual_fee": "NONE",
           "balance_transfer_fee": "Up to $5.00 or 5.0% of the amount transferred, whichever is greater",
           "cash_advance_fee": "$10.00 or 3.0% of the amount advanced, whichever is greater",
@@ -827,9 +827,9 @@
           }
         },
         {
-          "purchase_apr": "11.80% - 13.45%",
-          "balance_transfer_apr": "11.80% - 13.45%",
-          "cash_advance_apr": "23.49%",
+          "purchase_apr": "12.05% - 13.70%",
+          "balance_transfer_apr": "12.05% - 13.70%",
+          "cash_advance_apr": "23.74%",
           "annual_fee": "NONE",
           "balance_transfer_fee": "Up to $5.00 or 5.0% of the amount transferred, whichever is greater",
           "cash_advance_fee": "$10.00 or 3.0% of the amount advanced, whichever is greater",
@@ -4104,7 +4104,7 @@
       "fee_type": "purchase_apr",
       "category": "credit_card_standard",
       "category_label": "Standard Credit Card",
-      "value": "11.80% - 13.45%",
+      "value": "12.05% - 13.70%",
       "scope": "Visa Classic",
       "scope_products": [
         "Visa Classic"
@@ -4116,8 +4116,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "11.80% - 13.45%"
     },
     {
       "institution": "First National 1870 (Sunflower Bank, N.A.)",
@@ -4125,7 +4125,7 @@
       "fee_type": "balance_transfer_apr",
       "category": "credit_card_standard",
       "category_label": "Standard Credit Card",
-      "value": "11.80% - 13.45%",
+      "value": "12.05% - 13.70%",
       "scope": "Visa Classic",
       "scope_products": [
         "Visa Classic"
@@ -4137,8 +4137,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "11.80% - 13.45%"
     },
     {
       "institution": "First National 1870 (Sunflower Bank, N.A.)",
@@ -4146,7 +4146,7 @@
       "fee_type": "cash_advance_apr",
       "category": "credit_card_standard",
       "category_label": "Standard Credit Card",
-      "value": "23.49%",
+      "value": "23.74%",
       "scope": "Visa Classic",
       "scope_products": [
         "Visa Classic"
@@ -4158,8 +4158,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "23.49%"
     },
     {
       "institution": "First National 1870 (Sunflower Bank, N.A.)",
@@ -4293,7 +4293,7 @@
       "fee_type": "purchase_apr",
       "category": "credit_card_rewards",
       "category_label": "Rewards Credit Card",
-      "value": "11.80% - 13.45%",
+      "value": "12.05% - 13.70%",
       "scope": "verified across all products",
       "scope_products": [
         "Visa Gold",
@@ -4306,8 +4306,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "11.80% - 13.45%"
     },
     {
       "institution": "First National 1870 (Sunflower Bank, N.A.)",
@@ -4315,7 +4315,7 @@
       "fee_type": "balance_transfer_apr",
       "category": "credit_card_rewards",
       "category_label": "Rewards Credit Card",
-      "value": "11.80% - 13.45%",
+      "value": "12.05% - 13.70%",
       "scope": "verified across all products",
       "scope_products": [
         "Visa Gold",
@@ -4328,8 +4328,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "11.80% - 13.45%"
     },
     {
       "institution": "First National 1870 (Sunflower Bank, N.A.)",
@@ -4337,7 +4337,7 @@
       "fee_type": "cash_advance_apr",
       "category": "credit_card_rewards",
       "category_label": "Rewards Credit Card",
-      "value": "23.49%",
+      "value": "23.74%",
       "scope": "verified across all products",
       "scope_products": [
         "Visa Gold",
@@ -4350,8 +4350,8 @@
       "source_quote": null,
       "source_locator": null,
       "issuers": [],
-      "changed_since_last_snapshot": false,
-      "previous_value": null
+      "changed_since_last_snapshot": true,
+      "previous_value": "23.49%"
     },
     {
       "institution": "First National 1870 (Sunflower Bank, N.A.)",
