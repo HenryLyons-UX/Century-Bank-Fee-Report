@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:46:54.683640+00:00",
+  "generated_at": "2026-11-05T13:59:29.592557+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -1228,7 +1228,7 @@
           "late_payment_fee": "Not publicly disclosed",
           "returned_item_fee": "Not publicly disclosed",
           "_matrix_extra": {
-            "effective_date": "06/27/2022"
+            "effective_date": "12/16/2022"
           }
         },
         {
@@ -1253,7 +1253,7 @@
           "late_payment_fee": "Not publicly disclosed",
           "returned_item_fee": "Not publicly disclosed",
           "_matrix_extra": {
-            "effective_date": "06/27/2022"
+            "effective_date": "12/16/2022"
           }
         },
         {
@@ -1278,12 +1278,12 @@
           "late_payment_fee": "Not publicly disclosed",
           "returned_item_fee": "Not publicly disclosed",
           "_matrix_extra": {
-            "effective_date": "06/27/2022"
+            "effective_date": "12/16/2022"
           }
         }
       ],
       "warnings": [
-        "[Enterprise Bank & Trust (New Mexico)] Credit card page states rate information is accurate as of 06/27/2022 -- that's 4 year(s) old. Card terms have not been independently reconfirmed since then; verify they're still accurate."
+        "[Enterprise Bank & Trust (New Mexico)] Credit card page states rate information is accurate as of 12/16/2022 -- that's 3 year(s) old. Card terms have not been independently reconfirmed since then; verify they're still accurate."
       ]
     },
     "enterprise_bank_foreign_transaction": {
