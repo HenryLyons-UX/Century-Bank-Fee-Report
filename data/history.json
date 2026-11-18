@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:31:29.329506+00:00",
+  "generated_at": "2026-11-18T15:07:45.265481+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -228,10 +228,9 @@
           "foreign_transaction_fee": "1.0% of transaction amount",
           "_matrix_extra": {
             "min_finance_charge": "$1.00",
-            "paper_statement": "$2.50/month",
             "research_copies": "$3/photocopy, $4/duplicate statement",
             "expedited_payment": "$10",
-            "effective_date": "March 31, 2026"
+            "effective_date": "December 1, 2026"
           },
           "_source_urls": {
             "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
@@ -241,7 +240,6 @@
             "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "paper_statement": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
@@ -263,10 +261,9 @@
           "foreign_transaction_fee": "1.0% of transaction amount",
           "_matrix_extra": {
             "min_finance_charge": "$1.00",
-            "paper_statement": "$2.50/month",
             "research_copies": "$3/photocopy, $4/duplicate statement",
             "expedited_payment": "$10",
-            "effective_date": "March 31, 2026"
+            "effective_date": "December 1, 2026"
           },
           "_source_urls": {
             "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
@@ -276,7 +273,6 @@
             "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "paper_statement": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
@@ -298,10 +294,9 @@
           "foreign_transaction_fee": "1.0% of transaction amount",
           "_matrix_extra": {
             "min_finance_charge": "$1.00",
-            "paper_statement": "$2.50/month",
             "research_copies": "$3/photocopy, $4/duplicate statement",
             "expedited_payment": "$10",
-            "effective_date": "March 31, 2026"
+            "effective_date": "December 1, 2026"
           },
           "_source_urls": {
             "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
@@ -311,7 +306,6 @@
             "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "paper_statement": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
             "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
@@ -333,10 +327,9 @@
           "foreign_transaction_fee": "1.0% of transaction amount",
           "_matrix_extra": {
             "min_finance_charge": "$1.00",
-            "paper_statement": "$2.50/month",
             "research_copies": "$3/photocopy, $4/duplicate statement",
             "expedited_payment": "$10",
-            "effective_date": "March 31, 2026"
+            "effective_date": "December 1, 2026"
           },
           "_source_urls": {
             "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
@@ -346,7 +339,6 @@
             "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
             "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
             "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "paper_statement": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
             "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
             "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
             "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
@@ -356,10 +348,10 @@
         }
       ],
       "warnings": [
-        "[Century Bank (New Mexico) - Rewards Platinum] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Paper statement fee: $2.50/month; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10",
-        "[Century Bank (New Mexico) - Cash Rewards Platinum] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Paper statement fee: $2.50/month; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10",
-        "[Century Bank (New Mexico) - Visa Signature Travel] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Paper statement fee: $2.50/month; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10",
-        "[Century Bank (New Mexico) - Visa Secured] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Paper statement fee: $2.50/month; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10"
+        "[Century Bank (New Mexico) - Rewards Platinum] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10",
+        "[Century Bank (New Mexico) - Cash Rewards Platinum] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10",
+        "[Century Bank (New Mexico) - Visa Signature Travel] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10",
+        "[Century Bank (New Mexico) - Visa Secured] Fee-adjacent facts found with no existing canonical field: Minimum finance charge: $1.00; Research fee: $3/photocopy, $4/duplicate statement; Expedited (phone) payment fee: $10"
       ]
     },
     "century_bank_checking": {
@@ -6034,7 +6026,6 @@
       "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
       "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
       "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "paper_statement": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
       "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
       "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
       "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
