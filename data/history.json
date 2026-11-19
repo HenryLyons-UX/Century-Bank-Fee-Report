@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:07:45.265481+00:00",
+  "generated_at": "2026-11-19T15:16:33.690691+00:00",
   "institutions": {
     "nusenda": {
       "name": "Nusenda Credit Union",
@@ -233,18 +233,18 @@
             "effective_date": "December 1, 2026"
           },
           "_source_urls": {
-            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026"
+            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement"
           }
         },
         {
@@ -266,18 +266,18 @@
             "effective_date": "December 1, 2026"
           },
           "_source_urls": {
-            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026"
+            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement"
           }
         },
         {
@@ -299,18 +299,18 @@
             "effective_date": "December 1, 2026"
           },
           "_source_urls": {
-            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026"
+            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement"
           }
         },
         {
@@ -332,18 +332,18 @@
             "effective_date": "December 1, 2026"
           },
           "_source_urls": {
-            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026",
-            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/securedcardcardholderagreement_march2026"
+            "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement",
+            "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/december-secured-card-cardholder-agreement"
           }
         }
       ],
@@ -6019,18 +6019,18 @@
       "research_copies": "https://www.nusenda.org/docs/default-source/addendums/visadisclosure_775_addendum_disclosure.pdf"
     },
     "Century Bank (New Mexico)": {
-      "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
-      "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/consumercardholderagreement_march2026",
+      "late_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "returned_item_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "stop_payment_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "cash_advance_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "balance_transfer_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "foreign_transaction_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "min_finance_charge": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "research_copies": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "expedited_payment": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "effective_date": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "annual_fee": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
+      "purchase_apr": "https://www.icba.org/documents/d/asset-library-7839251/december-consumer-cardholder-agreement",
       "reward_structure": "https://www.mycenturybank.com/personal-banking/loans-and-credit/personal-credit-cards",
       "card_promotions": "https://www.mycenturybank.com/personal-banking/loans-and-credit/personal-credit-cards",
       "grace_period": "https://www.tcmbank.com/documents/45248/903684/SecuredCardCardholderAgreement_March2026.pdf",
